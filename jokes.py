@@ -1,0 +1,13 @@
+print('What do you get when you cross a snowman with a vampire?')
+input()
+print('Frostbite!')
+print()
+print('Why did the scarecrow get a promotion?')
+input()
+print('He was outstanding in his field.')
+print()
+print('Why does a moon rock taste better than an earth rock?')
+input()
+print('Because it is meteor.')
+print()
+      
